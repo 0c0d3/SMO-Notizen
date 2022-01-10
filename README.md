@@ -1,3 +1,7 @@
+<a href="https://discord.gg/unfBEn32QE">
+<img src="https://img.shields.io/badge/Discord-Gaudi%20Land-blue?style=flat-square&logo=discord&color=5865F2&logoColor=5865F2&labelColor=23272A">
+</a>
+
 ## SMO-Notizen v1.3.1
 #### Lokaler Notizzettel für "schulmanager-online.de"
 

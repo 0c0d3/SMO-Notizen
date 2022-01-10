@@ -1,6 +1,7 @@
 ## SMO-Notizen v1.3.1
 #### Lokaler Notizzettel für "schulmanager-online.de"
 
+![Vorschau](https://github.com/0c0d3/SMO-Notizen/blob/main/preview.png?raw=true "Vorschau")
 ---
 
 

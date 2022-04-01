@@ -5,9 +5,9 @@
 ## SMO-Notizen v1.3.1
 #### Lokaler Notizzettel für "schulmanager-online.de"
 
-![Vorschau](https://github.com/0c0d3/SMO-Notizen/blob/main/preview.png?raw=true "Vorschau")
----
+> Funktioniert am Besten in Verwendung mit meinem [SMO-Darkmode](https://github.com/iZer000/SMO-Darkmode).
 
+---
 
 
 
@@ -19,7 +19,7 @@
 
 ---
 
-
+![Bild 1](https://user-images.githubusercontent.com/77457719/161333470-e694cb8e-95df-4245-af4c-0f5f6b7802cd.png)
 
 
 ## Changelog

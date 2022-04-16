@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Discord-Gaudi%20Land-blue?style=flat-square&logo=discord&color=5865F2&logoColor=5865F2&labelColor=23272A">
 </a>
 
-## SMO-Notizen v1.3.1
+## SMO-Notizen v1.3.2
 #### Lokaler Notizzettel für "schulmanager-online.de"
 
 > Funktioniert am Besten in Verwendung mit meinem [SMO-Darkmode](https://github.com/iZer000/SMO-Darkmode).

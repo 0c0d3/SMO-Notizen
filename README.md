@@ -17,6 +17,11 @@
 * [SMO-Notizen.js](https://raw.githubusercontent.com/0c0d3/SMO-Notizen/main/SMO-Notizen.js "Github-RAW") kopieren und im Code-Editor einfügen
 * Speichern und SMO neu laden :)
 
+
+## Manuelle Installation
+* `javascript:(()=>{fetch('https://raw.githubusercontent.com/iZer000/SMO-Notizen/main/SMO-Notizen-Manuell.js').then(r=>r.text()).then(r=>eval(r));})();` als Lesezeichen spechern (e.g. Lesezeichenmanager > Neues Lesezeichen)
+* Bei Bedarf ausführen (mit SMO-Website im Vordergrund)
+
 ---
 
 ![Bild 1](https://user-images.githubusercontent.com/77457719/161333470-e694cb8e-95df-4245-af4c-0f5f6b7802cd.png)

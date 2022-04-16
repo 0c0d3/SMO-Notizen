@@ -1,25 +1,14 @@
-// -   CONFIG   - \\
+// Config
 const save_button = "Speichern";
 const delete_button = "Löschen";
 const note_width = "30%"; //Breite des Notizblocks
 const note_rows = "6"; //Höhe des Notizblocks in Zeilen
-// - END CONFIG - \\
 
-//    -      Changelog      -    \\
-// 1.3.2: Manuelle Installation hinzugefügt
-// 1.3.1: Config Optionen hinzugefügt
-// 1.3.0: Große QOL Changes
-// 1.2.1: Bugfixes
-// 1.2.0: Kompletter Recode und Featureupdates
-// 1.1.2: Bugfixes
-// 1.1.1: Bugfixes & Code Cleanup
-// 1.1.0: Grundversion
 
 
 let navbar;
 let note;
 let note_container;
-
 
 //Speichert & Löscht Notizen im localStorage
 //Einsehbar unter "Application" in den Dev-Tools

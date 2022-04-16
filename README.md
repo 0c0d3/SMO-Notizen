@@ -23,6 +23,7 @@
 
 
 ## Changelog
+    1.3.2: Manuelle Installation hinzugefügt
     1.3.1: Config Optionen hinzugefügt
     1.3.0: Große QOL Changes
     1.2.1: Bugfixes
